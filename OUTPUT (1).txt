@@ -1,0 +1,118 @@
+Enter no of books
+3
+*****************Book 1 details*********************
+Enter name of book
+MATHEMATICS
+Enter name of author
+RDSHARMA
+Enter gender
+M
+Enter email
+RDS@GMAIL.COM
+Enter quantity of books present in the library
+32
+Enter price of book
+432
+*****************Book 2 details*********************
+Enter name of book
+CHEMISTRY
+Enter name of author
+RCM
+Enter gender
+M
+Enter email
+RCM@YAHOO.IN
+Enter quantity of books present in the library
+12
+Enter price of book
+123
+*****************Book 3 details*********************
+Enter name of book
+PHYSICS
+Enter name of author
+HC.VERMA
+Enter gender
+M
+Enter email
+HCV@REDIFMAIL.COM
+Enter quantity of books present in the library
+34
+Enter price of book
+212
+Enter no of students
+2
+****************Student 1 Details************************
+Enter student name
+KSHITIZ
+Enter roll
+1941012445
+Enter issue day
+18
+Enter issue month
+2
+Enter issue year
+2020
+Enter return day
+5
+Enter return month
+3
+Enter return year
+2020
+Select from the list of books
+(0).RDSHARMA with quantity:32
+(1).RCM with quantity:12
+(2).HC.VERMA with quantity:34
+Enter no of books you want to issue
+2
+Enter the book number you want to choose
+0
+Book issued
+After issue status of book
+ RDSHARMA  MATHEMATICS RDS@GMAIL.COM M 432.0 31
+Enter the book number you want to choose
+2
+Book issued
+After issue status of book
+ HC.VERMA  PHYSICS HCV@REDIFMAIL.COM M 212.0 33
+Enter the number of books you want to return
+1
+Enter the book number you want to return
+2
+Fine to be paid=0.0
+After return status of book
+ HC.VERMA  PHYSICS HCV@REDIFMAIL.COM M 212.0 34
+****************Student 2 Details************************
+Enter student name
+KUNJAN
+Enter roll
+1941012894
+Enter issue day
+5
+Enter issue month
+2
+Enter issue year
+2020
+Enter return day
+5
+Enter return month
+3
+Enter return year
+2020
+Select from the list of books
+(0).RDSHARMA with quantity:31
+(1).RCM with quantity:12
+(2).HC.VERMA with quantity:34
+Enter no of books you want to issue
+1
+Enter the book number you want to choose
+1
+Book issued
+After issue status of book
+ RCM  CHEMISTRY RCM@YAHOO.IN M 123.0 11
+Enter the number of books you want to return
+1
+Enter the book number you want to return
+1
+Fine to be paid=0.0
+After return status of book
+ RCM  CHEMISTRY RCM@YAHOO.IN M 123.0 12
